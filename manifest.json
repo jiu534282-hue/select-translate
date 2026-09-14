@@ -1,0 +1,11 @@
+{
+    "display_name": "选中即译 Select Translate",
+    "version": "1.0.0",
+    "author": "Custom",
+    "description": "选中非中文文字自动显示中文翻译，日文附罗马音，可复制。",
+    "js": "index.js",
+    "requires": [],
+    "optional": [],
+    "auto_update": false,
+    "homePage": ""
+}
